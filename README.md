@@ -1,3 +1,21 @@
+# Biker Labs
+# live-website-link:  https://biker-labs.web.app
+
+# clientSide-codeLink: https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-Haniful-Islam
+
+# serverSide-CodeLink: https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-Haniful-Islam
+
+# stackoverflow-Question: https://stackoverflow.com/questions/72309002/in-node-js-how-can-i-increase-the-number-of-a-submit-form
+
+* Elegant and clean home page.
+* Responsive and sticky navigator.
+* General-purpose pages like Blogs, Car Inventory and much more
+* Bootstrap 5 framework, React library etc. have been used.
+* Added many elements and widgets.
+* Valid JSX and CSS3.
+* Easy to use and well commented code as well as reusable code.
+* Extensive documentation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
